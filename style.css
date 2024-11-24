@@ -142,3 +142,10 @@ a:visited {
     }
 }
 /*-----------------End of Large Display Media Query-----------------*/
+
+/*-----------------Phone Media Query---------------------*/
+@media screen and (max-width: 767px) {
+    .picture {
+        width: 70%;
+    }
+}
