@@ -34,7 +34,7 @@ div {
 
 body {
     background-color: blanchedalmond;
-    padding-bottom: 5px;
+    padding-bottom: 84px;
 }
 
 html {
@@ -43,10 +43,12 @@ html {
 
 .text {
     font-family:'Courier New';
+    border: 0px solid;
 }
 
 .picture {
     height: 300px;
+    border: 0px solid;
 }
 
 .container5 {
