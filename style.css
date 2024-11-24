@@ -38,12 +38,10 @@ html {
 
 .text {
     font-family:'Courier New';
-    border: 0px solid;
 }
 
 .picture {
     height: 300px;
-    border: 0px solid;
 }
 
 .container5 {
@@ -146,6 +144,6 @@ a:visited {
 /*-----------------Phone Media Query---------------------*/
 @media screen and (max-width: 767px) {
     .picture {
-        width: 70%;
+        height: 70%, auto;
     }
 }
