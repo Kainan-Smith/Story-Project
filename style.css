@@ -17,6 +17,10 @@
     display: grid;
 }
 
+div {
+    word-wrap: break-word;
+}
+
 .card-img {
 
     float: center;
@@ -39,11 +43,6 @@ html {
 
 .text {
     font-family:'Courier New';
-}
-
-.wrap {
-    float: right;
-    margin: 5px;
 }
 
 .picture {
