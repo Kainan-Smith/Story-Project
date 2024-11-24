@@ -17,12 +17,7 @@
     display: grid;
 }
 
-div {
-    word-wrap: break-word;
-}
-
 .card-img {
-
     float: center;
     height: 150px;
 }
